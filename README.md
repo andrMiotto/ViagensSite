@@ -58,12 +58,7 @@ Este é um projeto desenvolvido como atividade da disciplina de **Front-End**, s
    git clone https://github.com/seu-usuario/catalogo-de-viagens.git
    ```
 
-2. Navegue até o diretório:
-   ```bash
-   cd catalogo-de-viagens
-   ```
-
-3. Abra o arquivo `index.html` em seu navegador.
+2. Abra o arquivo `index.html` em seu navegador.
 
 ## 🎓 Sobre o Projeto
 
