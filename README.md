@@ -67,4 +67,4 @@ Projeto desenvolvido como parte da disciplina **Front-End** no curso de **MIDS 7
 ## 👤 Autor
 
 - **André**
-- Estudante de Desenvolvimento Web
+- Estudante de Desenvolvimento de Sistemas CentroWEG
