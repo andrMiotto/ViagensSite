@@ -34,8 +34,8 @@ Este é um projeto desenvolvido como atividade da disciplina de **Front-End**, s
 
 ## 🌐 Tecnologias Utilizadas
 
-- HTML5
-- CSS3 (sem bibliotecas ou frameworks)
+- HTML
+- CSS (sem bibliotecas ou frameworks)
 - Elementos multimídia (vídeo e imagem)
 - Design responsivo e navegação básica
 
