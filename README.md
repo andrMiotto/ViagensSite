@@ -1,48 +1,48 @@
 🌍 Catálogo de Viagens
-Este é um projeto desenvolvido como atividade da disciplina de Front-End, solicitado pelo professor. O objetivo foi criar uma aplicação web simples e visualmente atrativa utilizando HTML e CSS, apresentando destinos turísticos mundialmente conhecidos. Funcionalidades
+Este é um projeto desenvolvido como atividade da disciplina de Front-End, solicitado pelo professor. O objetivo foi criar uma aplicação web simples e visualmente atrativa utilizando HTML e CSS, apresentando destinos turísticos mundialmente conhecidos.
+
+✨ Funcionalidades
 Página inicial com vídeo de fundo e introdução ao catálogo
 
-Navegação entre páginas com um menu fixo
+Navegação com menu fixo entre páginas
 
-Lista de destinos turísticos com links interativos
+Lista de destinos turísticos com links clicáveis
 
-Páginas individuais para cada destino com vídeos e descrição
+Páginas individuais com vídeo, descrição e link para a Wikipedia
 
-Design responsivo com estilo moderno e elegante
+Layout responsivo com estética moderna
 
 🧭 Estrutura do Projeto
-bash
 Copiar
 Editar
 📁 Imagens/
    ├── euKael.jpg
    ├── VideoFundo.mp4
    ├── VideoTorre.mp4
-   └── ... (outros vídeos e imagens dos destinos)
+   └── ... (demais vídeos e imagens dos destinos)
 
 📄 index.html
-📄 viagens.html (opcional/futuro)
 📄 destino1.html
 📄 destino2.html
 📄 ...
 📄 style.css
 📄 Páginas
-index.html: Página principal com vídeo de fundo e lista de destinos.
+index.html: Página principal com apresentação do catálogo e lista de destinos.
 
-destino1.html até destino9.html: Páginas dedicadas a cada ponto turístico.
+destino1.html até destino9.html: Páginas com informações específicas de cada ponto turístico.
 
-style.css: Folha de estilo aplicada a todas as páginas.
+style.css: Arquivo de estilos centralizado para todas as páginas.
 
 🌐 Tecnologias Utilizadas
 HTML5
 
-CSS3 (sem frameworks)
+CSS3 (sem bibliotecas ou frameworks)
 
-Vídeos e imagens locais
+Elementos multimídia (vídeo e imagem)
 
-Estrutura básica de navegação
+Design responsivo e navegação básica
 
-🏖 Exemplos de Destinos
+📍 Destinos Apresentados
 Torre Eiffel
 
 Coliseu
@@ -61,10 +61,7 @@ Praça de Espanha
 
 Fontana di Trevi
 
-📷 Pré-visualização
-Adicione aqui uma captura de tela do site ou um gif da navegação (opcional)
-
-🚀 Como Executar
+🚀 Como Executar Localmente
 Clone o repositório:
 
 bash
@@ -77,18 +74,12 @@ bash
 Copiar
 Editar
 cd catalogo-de-viagens
-Abra o arquivo index.html em qualquer navegador.
+Abra o arquivo index.html em seu navegador.
 
-🛠 Melhorias Futuras
-Adicionar sistema de login para personalização
-
-Inclusão de mais destinos
-
-Modo escuro/claro
-
-Responsividade avançada para dispositivos móveis
+🎓 Sobre o Projeto
+Projeto desenvolvido como parte da disciplina Front-End no curso de MIDS 77, sob orientação do professor.
 
 👤 Autor
 André
 
-Projeto para a disciplina MIDS 77
+Estudante de Desenvolvimento Web
