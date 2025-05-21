@@ -1,20 +1,18 @@
-🌍 Catálogo de Viagens
-Este é um projeto desenvolvido como atividade da disciplina de Front-End, solicitado pelo professor. O objetivo foi criar uma aplicação web simples e visualmente atrativa utilizando HTML e CSS, apresentando destinos turísticos mundialmente conhecidos.
+# 🌍 Catálogo de Viagens
 
-✨ Funcionalidades
-Página inicial com vídeo de fundo e introdução ao catálogo
+Este é um projeto desenvolvido como atividade da disciplina de **Front-End**, solicitado pelo professor. O objetivo foi criar uma aplicação web simples e visualmente atrativa utilizando **HTML** e **CSS**, apresentando destinos turísticos mundialmente conhecidos.
 
-Navegação com menu fixo entre páginas
+## ✨ Funcionalidades
 
-Lista de destinos turísticos com links clicáveis
+- Página inicial com vídeo de fundo e introdução ao catálogo
+- Navegação com menu fixo entre páginas
+- Lista de destinos turísticos com links clicáveis
+- Páginas individuais com vídeo, descrição e link para a Wikipedia
+- Layout responsivo com estética moderna
 
-Páginas individuais com vídeo, descrição e link para a Wikipedia
+## 🧭 Estrutura do Projeto
 
-Layout responsivo com estética moderna
-
-🧭 Estrutura do Projeto
-Copiar
-Editar
+```
 📁 Imagens/
    ├── euKael.jpg
    ├── VideoFundo.mp4
@@ -26,60 +24,52 @@ Editar
 📄 destino2.html
 📄 ...
 📄 style.css
-📄 Páginas
-index.html: Página principal com apresentação do catálogo e lista de destinos.
+```
 
-destino1.html até destino9.html: Páginas com informações específicas de cada ponto turístico.
+## 📄 Páginas
 
-style.css: Arquivo de estilos centralizado para todas as páginas.
+- `index.html`: Página principal com apresentação do catálogo e lista de destinos.
+- `destino1.html` até `destino9.html`: Páginas com informações específicas de cada ponto turístico.
+- `style.css`: Arquivo de estilos centralizado para todas as páginas.
 
-🌐 Tecnologias Utilizadas
-HTML5
+## 🌐 Tecnologias Utilizadas
 
-CSS3 (sem bibliotecas ou frameworks)
+- HTML5
+- CSS3 (sem bibliotecas ou frameworks)
+- Elementos multimídia (vídeo e imagem)
+- Design responsivo e navegação básica
 
-Elementos multimídia (vídeo e imagem)
+## 📍 Destinos Apresentados
 
-Design responsivo e navegação básica
+- Torre Eiffel
+- Coliseu
+- Museus do Vaticano
+- Museu do Louvre
+- Sagrada Família
+- Fontes de Dubai
+- Casa de Anne Frank
+- Praça de Espanha
+- Fontana di Trevi
 
-📍 Destinos Apresentados
-Torre Eiffel
+## 🚀 Como Executar Localmente
 
-Coliseu
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/catalogo-de-viagens.git
+   ```
 
-Museus do Vaticano
+2. Navegue até o diretório:
+   ```bash
+   cd catalogo-de-viagens
+   ```
 
-Museu do Louvre
+3. Abra o arquivo `index.html` em seu navegador.
 
-Sagrada Família
+## 🎓 Sobre o Projeto
 
-Fontes de Dubai
+Projeto desenvolvido como parte da disciplina **Front-End** no curso de **MIDS 77**, sob orientação do professor.
 
-Casa de Anne Frank
+## 👤 Autor
 
-Praça de Espanha
-
-Fontana di Trevi
-
-🚀 Como Executar Localmente
-Clone o repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/catalogo-de-viagens.git
-Navegue até o diretório:
-
-bash
-Copiar
-Editar
-cd catalogo-de-viagens
-Abra o arquivo index.html em seu navegador.
-
-🎓 Sobre o Projeto
-Projeto desenvolvido como parte da disciplina Front-End no curso de MIDS 77, sob orientação do professor.
-
-👤 Autor
-André
-
-Estudante de Desenvolvimento Web
+- **André**
+- Estudante de Desenvolvimento Web
