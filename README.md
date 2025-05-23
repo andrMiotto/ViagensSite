@@ -19,11 +19,14 @@ Este é um projeto desenvolvido como atividade da disciplina de **Front-End**, s
    ├── VideoTorre.mp4
    └── ... (demais vídeos e imagens dos destinos)
 
-📄 index.html
+📁 Destinos/
 📄 destino1.html
 📄 destino2.html
 📄 ...
+
 📄 style.css
+📄 index.html
+
 ```
 
 ## 📄 Páginas
