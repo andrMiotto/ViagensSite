@@ -20,9 +20,9 @@ Este é um projeto desenvolvido como atividade da disciplina de **Front-End**, s
    └── ... (demais vídeos e imagens dos destinos)
 
 📁 Destinos/
-📄 destino1.html
-📄 destino2.html
-📄 ...
+ ├──📄 destino1.html
+ ├──📄 destino2.html
+ └── 📄 ...
 
 📄 style.css
 📄 index.html
